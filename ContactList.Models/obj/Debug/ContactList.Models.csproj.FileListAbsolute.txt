@@ -1,0 +1,6 @@
+C:\Users\eleni\source\repos\ContactList.Models\bin\Debug\ContactList.Models.dll
+C:\Users\eleni\source\repos\ContactList.Models\bin\Debug\ContactList.Models.pdb
+C:\Users\eleni\source\repos\ContactList.Models\obj\Debug\ContactList.Models.csproj.AssemblyReference.cache
+C:\Users\eleni\source\repos\ContactList.Models\obj\Debug\ContactList.Models.csproj.CoreCompileInputs.cache
+C:\Users\eleni\source\repos\ContactList.Models\obj\Debug\ContactList.Models.dll
+C:\Users\eleni\source\repos\ContactList.Models\obj\Debug\ContactList.Models.pdb
